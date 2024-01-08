@@ -1,7 +1,7 @@
 ## Hello! 👋 
 > I am Jhomar, but you can call me Joe. And I create websites. 
 
-My name is **Jhomar Nando**, but you can call me **Joe**. I'm a **Front-end developer** with over **15 years of experience** in application development, known for meeting deadlines, time management, precise research, and efficiency in problem-solving solutions.
+My name is **Jhomar Nando**, but you can call me **Joe**. I'm a **Front-end developer** with over **15 years of experience** in application development, known for meeting deadlines, time management, meticulous research, and efficiency in problem-solving solutions.
 
 I have a degree in **Systems Analysis and Development** from Uninove, I have a postgraduate degree in **IT Management MBA** from XP Educação, and I have worked in various companies in the financial sector, health, advertising market, large portals, and newspapers.
 
