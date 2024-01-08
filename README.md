@@ -1,5 +1,5 @@
 ## Hello! 👋 
-> I am Jhomar, but you can call me Joe. And I create websites. 
+> I am **Jhomar**, but you can call me **Joe**. And I create websites. 
 
 My name is **Jhomar Nando**, but you can call me **Joe**. I'm a **Front-end developer** with over **15 years of experience** in application development, known for meeting deadlines, time management, meticulous research, and efficiency in problem-solving solutions.
 
