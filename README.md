@@ -16,7 +16,7 @@ I have a degree in **Systems Analysis and Development** from Uninove, I have a p
 - UX & UI Design
 - IT Management and Agile
 
-#### [Portifolio](https://www.joekyy.com.br)
+#### [Portifolio](https://joekyy.com.br/en-us/)
 #### [Resume in English](https://www.dropbox.com/scl/fi/23gent56pfgt720bjc34x/Jhomar-Nando-Resume-English.pdf?rlkey=dm3mp5e4gdohfqr99c01ucxnh&dl=0)
 
 ----
