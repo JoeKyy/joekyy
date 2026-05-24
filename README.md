@@ -19,7 +19,7 @@ I have a degree in **Systems Analysis and Development** from Uninove, I have a p
 - IT Management and Agile
 
 #### [Portifolio](https://joekyy.com.br/en-us/)
-#### [Resume in English](https://www.dropbox.com/scl/fi/pxp5v7yvsqxpwtqlnwtic/Jhomar-Nando-Resume-English.docx)
+#### [Resume in English](https://joekyy.com.br/docs/resume-en.docx)
 
 ----
 
@@ -45,7 +45,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela Uninove, sou pós
 - Gestão de TI e Agil
 
 #### [Portifólio](https://www.joekyy.com.br/pt-br/)
-#### [Currículo em Português](https://www.dropbox.com/scl/fi/53yz5rk6ndjwuwh1xurha/Jhomar-Nando-Resume-Portuguese.docx)
+#### [Currículo em Português](https://joekyy.com.br/docs/resume-pt.docx)
 
 ---
 
